@@ -2,14 +2,19 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Evaluations and webpages for classes I were a teaching assistant.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 2
+display_categories: [usc]
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+<div class="projects">
+	<!-- Display categorized courses -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">@{{ category | upcase }}</h2>
+  </a>
+  {% assign categorized_sorted_courses = site.courses | where: "categories", category | reverse%}
+  {% include courses.liquid%}
+  {% endfor %}
+</div>
