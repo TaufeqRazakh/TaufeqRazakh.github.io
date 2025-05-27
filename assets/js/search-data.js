@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Evaluations and webpages for classes I was a teaching assistant.",
+          description: "evaluations and webpages for classes I was a teaching assistant.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -44,8 +44,8 @@ ninja.data = [{
           section: "Courses",},{id: "courses-csci-596-scientific-computing-and-visualization-evals",
           title: 'CSCI 596: Scientific Computing and Visualization evals',
           description: "",
-          section: "Courses",},{id: "courses-csci-350-introduction-to-operating-systems",
-          title: 'CSCI 350: Introduction to Operating Systems',
+          section: "Courses",},{id: "courses-csci-350-introduction-to-operating-systems-evals",
+          title: 'CSCI 350: Introduction to Operating Systems evals',
           description: "",
           section: "Courses",},{id: "news-passed-both-the-written-and-oral-parts-of-the-qualifying-examination-sparkles",
           title: 'Passed both the written and oral parts of the qualifying examination! :sparkles:',
