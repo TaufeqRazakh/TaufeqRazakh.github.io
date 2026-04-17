@@ -30,4 +30,4 @@ I am pursuing my doctoral degree in computer science (CS) at the [University of 
 
 I earned two master degrees---one in computer science and the other in mechanical engineering---from USC during which, I was advised by Prof. [Ken-ichi Nomura](https://viterbi.usc.edu/directory/faculty/Nomura/Ken-ichi) and worked on a differential equation solver based on physics-informed neural network (PINN) for molecular dynamics. My bachelor degree was in mechanical engineering from Osmania University in 2016 where I was tinkering with the compression ratios of diesel engines.
 
-I am honoured to be an ACM Gordon Bell Prize finalist(2025), receive the inaugural Rusty Lusk Scholarship (2025) and present at the ACM Student Research Competition in 2026.
+I am honored to have been named an ACM Gordon Bell Prize finalist (2025), awarded the inaugural Rusty Lusk Scholarship (2025), and selected to present at the ACM Student Research Competition (2026).
