@@ -7,7 +7,7 @@ first_name: Taufeq
 middle_name: Mohammed
 last_name: Razakh
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is over mail.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD candidate, University of Southern California. Research Interest: Developing algorithms for quantum molecular dynamics on HPC systems
 footer_text:
@@ -165,6 +165,8 @@ collections:
     output: true
   teachings:
     output: true
+  courses:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

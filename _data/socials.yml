@@ -7,12 +7,12 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: razakh@usc.edu # your email address
+email: razakh@usc.edu
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
-github_username: TaufeqRazakh# your GitHub user name
+github_username: TaufeqRazakh
 # gitlab_username: # your GitLab user name
-ieee_id: 138869563164049# your ieeexplore.ieee.org/author/id
+ieee_id: 138869563164049
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
 # kaggle_id: # your kaggle id
@@ -20,7 +20,7 @@ ieee_id: 138869563164049# your ieeexplore.ieee.org/author/id
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: https://www.linkedin.com/in/tmrazakh# your LinkedIn user name
+linkedin_username: tmrazakh
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -30,7 +30,7 @@ linkedin_username: https://www.linkedin.com/in/tmrazakh# your LinkedIn user name
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: false # set to true to show the RSS icon
-scholar_userid: yedl5moAAAAJ # your Google Scholar ID
+scholar_userid: yedl5moAAAAJ
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
