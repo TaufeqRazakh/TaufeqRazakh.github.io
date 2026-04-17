@@ -137,7 +137,7 @@ external_sources:
     posts: 
       - url: https://www.alcf.anl.gov/news/alcf-exascale-computing-and-ai-resources-accelerate-scientific-breakthroughs-2025
         published_date: 2025-12-18
-        title: "ALCF exascale computing and AI resources accelerate scientific breakthroughs in 2025 - Largest Simulations to date of Light-Matter Interactions in Quantum Materials"
+        title: "ALCF Exascale Computing and AI Resources Accelerate Scientific Breakthroughs in 2025 - Largest Simulations to Date of Light-Matter Interactions in Quantum Materials"
     categories: [external-posts]
     tags: [ALCF]
   - name: SIGHPC December 2025 Rusty Lusk
@@ -151,7 +151,7 @@ external_sources:
     posts:
       - url: https://www.anl.gov/cels/article/argonnes-aurora-supercomputer-drives-groundbreaking-simulations-to-explore-how-light-shapes-quantum
         published_date: 2025-11-17
-        title: "Argonne’s Aurora supercomputer drives groundbreaking simulations to explore how light shapes quantum materials"
+        title: "Argonne’s Aurora Supercomputer Drives Groundbreaking Simulations to Explore How Light Shapes Quantum Materials"
     categories: [external-posts]
     tags: [ALCF]
   - name: IXPUG Nariman 2025
