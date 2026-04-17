@@ -85,6 +85,10 @@ module ExternalPosts
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
         content[:published] = parse_published_date(post['published_date'])
+        # Override title if provided in _config.yml
+        if post['title'] then 
+          content[:title] = post['title'] 
+        end
         create_document(site, src['name'], post['url'], content, src)
       end
     end

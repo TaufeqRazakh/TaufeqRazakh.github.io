@@ -137,31 +137,35 @@ external_sources:
     posts: 
       - url: https://www.alcf.anl.gov/news/alcf-exascale-computing-and-ai-resources-accelerate-scientific-breakthroughs-2025
         published_date: 2025-12-18
+        title: "ALCF exascale computing and AI resources accelerate scientific breakthroughs in 2025 - Largest Simulations to date of Light-Matter Interactions in Quantum Materials"
     categories: [external-posts]
     tags: [ALCF]
   - name: SIGHPC December 2025 Rusty Lusk
     posts: 
       - url: https://drive.google.com/file/d/1e26eI9odRYF8XuLcontOtbsZlFAzSpKQ/view?usp=sharing
         published_date: 2025-12-18
+        title: "Celebrating the Next Generation of HPC Leaders - SIGHPC Connect"
     categories: [external-posts]
     tags: [SIG-HPC]
   - name: James Collins GB25
     posts:
       - url: https://www.anl.gov/cels/article/argonnes-aurora-supercomputer-drives-groundbreaking-simulations-to-explore-how-light-shapes-quantum
         published_date: 2025-11-17
+        title: "Argonne’s Aurora supercomputer drives groundbreaking simulations to explore how light shapes quantum materials"
     categories: [external-posts]
     tags: [ALCF]
   - name: IXPUG Nariman 2025
     posts:
       - url: https://www.intel.com/content/www/us/en/developer/articles/technical/ixpug-oneapi-scientific-compute.html
         published_date: 2025-06-02
-        title: test title
+        title: "IXPUG Take-Out: Deepen the Understanding of Light-Matter Interaction"
     categories: [external-posts]
     tags: [Intel]
   - name: DCMESH speed-up on Polaris
     posts:
       - url: https://www.alcf.anl.gov/science/case-studies/accelerating-light-matter-dynamics-simulations-dcmesh
         published_date: 2024-05-14
+        title: "Accelerating Light-Matter Dynamics Simulations with DCMESH"
     categories: [external-posts]
     tags: [ALCF]
 
