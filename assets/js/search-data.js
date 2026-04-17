@@ -66,7 +66,24 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "teachings-data-science-fundamentals",
+            },},{id: "news-selected-as-a-finalist-for-the-2025-gordon-bell-prize-presentation-with-the-team-to-be-held-at-sc-25-atlanta-ga",
+          title: 'Selected as a finalist for the 2025 Gordon Bell Prize. Presentation with the...',
+          description: "",
+          section: "News",},{id: "news-gave-a-candidate-seminar-at-nersc-berkeley-ca-thank-you-for-hosting-me-dr-deslippe",
+          title: 'Gave a candidate seminar at NERSC, Berkeley, CA. Thank you for hosting me...',
+          description: "",
+          section: "News",},{id: "news-aps-global-physics-summit-2026-in-devner",
+          title: 'APS Global Physics Summit 2026 in Devner',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
+            },},{id: "news-speaking-at-li-research-group-sworkshop-on-computational-materials-science-amp-amp-high-performance-computing-with-colleagues-from-usc-and-alcf",
+          title: 'Speaking at Li Research Group’sworkshop on computational materials science &amp;amp;amp; high-performance computing with...',
+          description: "",
+          section: "News",},{id: "news-selected-be-present-successes-with-bf16-precision-for-time-evolution-of-electronic-hamiltonian-at-the-acm-src-pasc26-in-bern-switzerland-this-june",
+          title: 'Selected be present successes with BF16 precision for time evolution of electronic hamiltonian...',
+          description: "",
+          section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
