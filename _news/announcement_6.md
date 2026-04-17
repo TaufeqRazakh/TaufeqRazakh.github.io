@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Speaking at [Li Research Group's](https://sites.usc.edu/ligroup/)workshop on computational materials science & high-performance computing with colleagues from USC and ALCF.
+Speaking at [Li Research Group's](https://sites.usc.edu/ligroup/) workshop on computational materials science & high-performance computing with colleagues from USC and ALCF.
