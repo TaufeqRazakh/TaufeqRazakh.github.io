@@ -81,7 +81,7 @@ ninja.data = [{
           title: 'Speaking at Li Research Group’s workshop on computational materials science &amp;amp;amp; high-performance computing...',
           description: "",
           section: "News",},{id: "news-pushing-the-boundary-of-simulation-on-modern-ai-hardware-my-work-on-leveraging-bf16-precision-for-time-evolution-of-electronic-hamiltonian-has-been-selected-for-the-acm-student-research-competition-src-pasc26-heading-to-bern-switzerland-this-june",
-          title: 'Pushing the boundary of simulation on modern AI hardware! My work on leveraging...',
+          title: 'Pushing the boundary of simulation on modern AI hardware. My work on leveraging...',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
