@@ -23,7 +23,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 I am pursuing my doctoral degree in computer science (CS) at the [University of Southern California](https://www.usc.edu/) (USC), advised by Prof. [Aiichiro Nakano](https://viterbi.usc.edu/directory/faculty/Nakano/Aiichiro). My research lies in high-performance computing and quantum molecular dynamics, where I am developing scalable first-principles frameworks to carry out nonadiabatic quantum molecular dynamics (NAQMD) simulations. I also interned at [Argonne Leadership Computing Facility](https://www.alcf.anl.gov/) (ALCF) for two summers, where I was porting and tuning applications for the Intel&reg; PVC architecture.
