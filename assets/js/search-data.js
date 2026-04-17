@@ -77,11 +77,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_5/";
-            },},{id: "news-speaking-at-li-research-group-sworkshop-on-computational-materials-science-amp-amp-high-performance-computing-with-colleagues-from-usc-and-alcf",
-          title: 'Speaking at Li Research Group’sworkshop on computational materials science &amp;amp;amp; high-performance computing with...',
+            },},{id: "news-speaking-at-li-research-group-s-workshop-on-computational-materials-science-amp-amp-high-performance-computing-with-colleagues-from-usc-and-alcf",
+          title: 'Speaking at Li Research Group’s workshop on computational materials science &amp;amp;amp; high-performance computing...',
           description: "",
-          section: "News",},{id: "news-selected-be-present-successes-with-bf16-precision-for-time-evolution-of-electronic-hamiltonian-at-the-acm-src-pasc26-in-bern-switzerland-this-june",
-          title: 'Selected be present successes with BF16 precision for time evolution of electronic hamiltonian...',
+          section: "News",},{id: "news-pushing-the-boundary-of-simulation-on-modern-ai-hardware-my-work-on-leveraging-bf16-precision-for-time-evolution-of-electronic-hamiltonian-has-been-selected-for-the-acm-student-research-competition-src-pasc26-heading-to-bern-switzerland-this-june",
+          title: 'Pushing the boundary of simulation on modern AI hardware! My work on leveraging...',
           description: "",
           section: "News",},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
