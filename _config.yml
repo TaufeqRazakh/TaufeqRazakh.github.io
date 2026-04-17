@@ -134,14 +134,14 @@ external_sources:
   #   categories: [external-posts]
   #   tags: [medium]
   - name: DOE sec newsbytes
-    posts: 
+    posts:
       - url: https://www.alcf.anl.gov/news/alcf-exascale-computing-and-ai-resources-accelerate-scientific-breakthroughs-2025
         published_date: 2025-12-18
         title: "ALCF Exascale Computing and AI Resources Accelerate Scientific Breakthroughs in 2025 - Largest Simulations to Date of Light-Matter Interactions in Quantum Materials"
     categories: [external-posts]
     tags: [ALCF]
   - name: SIGHPC December 2025 Rusty Lusk
-    posts: 
+    posts:
       - url: https://drive.google.com/file/d/1e26eI9odRYF8XuLcontOtbsZlFAzSpKQ/view?usp=sharing
         published_date: 2025-12-18
         title: "Celebrating the Next Generation of HPC Leaders - SIGHPC Connect"

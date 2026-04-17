@@ -7,8 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
-    <p>Seaver Science Center 326</p>
+  more_info: <p>Seaver Science Center 326</p>
     <p>920 Bloom Walk</p>
     <p>Los Angeles, CA 90089</p>
 
