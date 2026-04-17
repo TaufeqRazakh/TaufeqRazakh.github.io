@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Pushing the boundary of simulation on modern AI hardware! My work on leveraging BF16 precision for time evolution of electronic Hamiltonian has been selected for the ACM Student Research Competition (SRC) @ PASC26. Heading to Bern, Switzerland this June.
+Pushing the boundary of simulation on modern AI hardware. My work on leveraging BF16 precision for time evolution of electronic Hamiltonian has been selected for the ACM Student Research Competition (SRC) @ PASC26. Heading to Bern, Switzerland this June.
