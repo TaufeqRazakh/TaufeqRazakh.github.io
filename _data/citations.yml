@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-07-20'
 papers:
   yedl5moAAAAJ:CMPXdcK5v8EC:
-    citations: 2
+    citations: 4
     title: 'Multiscale light-matter dynamics in quantum materials: from electrons to topological superlattices'
     year: '2025'
   yedl5moAAAAJ:ON9TkA72AHEC:
@@ -14,9 +14,13 @@ papers:
     title: 'PND: Physics-informed neural-network software for molecular dynamics applications'
     year: '2021'
   yedl5moAAAAJ:YB4bud6kWLwC:
-    citations: 24
+    citations: 23
     title: 'Allegro-legato: Scalable, fast, and robust neural-network quantum molecular dynamics via sharpness-aware minimization'
     year: '2023'
+  yedl5moAAAAJ:r56sNq9gaawC:
+    citations: 0
+    title: 'Toward Exascale AI for Science: A Scalable AI Skill for Autonomous Microkinetics Discovery'
+    year: '2026'
   yedl5moAAAAJ:tSVUDDkujAIC:
     citations: 3
     title: Accelerating quantum light-matter dynamics on graphics processing units
