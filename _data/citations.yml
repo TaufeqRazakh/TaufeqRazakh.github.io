@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-21'
 papers:
   yedl5moAAAAJ:CMPXdcK5v8EC:
     citations: 4
@@ -10,7 +10,7 @@ papers:
     title: Impact of varying BLAS precision on DCMESH
     year: '2024'
   yedl5moAAAAJ:OTTXONDVkokC:
-    citations: 28
+    citations: 29
     title: 'PND: Physics-informed neural-network software for molecular dynamics applications'
     year: '2021'
   yedl5moAAAAJ:YB4bud6kWLwC:
